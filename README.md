@@ -22,7 +22,7 @@ To install the mod you can either subscribe to it on mod.io or download and inst
 
 Subscribe either through the website or the in-game [mods] tab.
 
-This mod requires Elevated Permissions to work — you will be prompted with that information after restarting the game.
+This mod requires Elevated Permissions to work — you will be prompted with that information after restarting the game (mod id: 6073383).
 
 If you subscribe on the mod.io website, you still need to open the [mods] tab in game for it to download and install.
 
