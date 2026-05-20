@@ -16,7 +16,7 @@ MonoBehaviour:
     guid: b9faed0b24934353b0c0767056dd583d
     name: AutoTarget
     displayName: 
-    skipSafetyChecks: 0
+    skipSafetyChecks: 1
     disableScripts: 0
     accessesExtraAssemblies: 1
     disableHarmonyPatching: 0
